@@ -6,7 +6,8 @@
 wp-content/*
 !wp-content/mu-plugins/
 !wp-content/plugins/
-!wp-content/themes/
+!wp-content/themes/storefront
+!wp-content/themes/storefront-child
 
 # ignore these plugins
 wp-content/plugins/hello.php
