@@ -1,13 +1,14 @@
 # ignore everything in the root except the "wp-content" directory.
-!wp-content/
-
+wp-content/
+wp-admin/
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
-!wp-content/mu-plugins/
-!wp-content/plugins/
-!wp-content/themes/storefront
-!wp-content/themes/storefront-child
+wp-content/mu-plugins/
+wp-includes/
+wp-content/plugins/
+wp-content/themes/storefront
+wp-content/themes/storefront-child
 
 # ignore these plugins
 wp-content/plugins/hello.php
@@ -22,3 +23,12 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+wp-activate.php
+wp-config.php
+xmlrpc.php
+wp-settings.php
+wp-login.php
+wp-mail.php
+
+.htaccess
