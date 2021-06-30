@@ -1,0 +1,84 @@
+2021-06-21T22:35:30+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:35:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:36:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:36:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:36:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:36:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\page.php(3): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+
+2021-06-21T22:36:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php:5
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(730): require_once()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template.php(676): load_template()
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\general-template.php(48): locate_template()
+#3 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php(1): get_header()
+#4 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include('C:\\Bitnami\\word...')
+#5 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#6 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#7 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\header.php on line 5
+

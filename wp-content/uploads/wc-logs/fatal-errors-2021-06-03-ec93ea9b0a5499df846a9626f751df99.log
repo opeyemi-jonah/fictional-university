@@ -1,0 +1,40 @@
+2021-06-03T20:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function blogpost() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#3 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php on line 4
+
+2021-06-03T20:22:31+00:00 CRITICAL Uncaught Error: Call to undefined function blogpost() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#3 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php on line 4
+
+2021-06-03T20:22:36+00:00 CRITICAL Uncaught Error: Call to undefined function blogpost() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#3 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php on line 4
+
+2021-06-03T20:22:37+00:00 CRITICAL Uncaught Error: Call to undefined function blogpost() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#3 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php on line 4
+
+2021-06-03T20:22:44+00:00 CRITICAL Uncaught Error: Call to undefined function blogpost() in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php:4
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-includes\template-loader.php(106): include()
+#1 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-blog-header.php(19): require_once('C:\\Bitnami\\word...')
+#2 C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\index.php(17): require('C:\\Bitnami\\word...')
+#3 {main}
+  thrown in C:\Bitnami\wordpress-5.5.1-0\apps\wordpress\htdocs\wp-content\themes\fictional-university-theme\index.php on line 4
+
